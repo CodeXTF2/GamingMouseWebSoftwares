@@ -31,5 +31,10 @@ and test features of the webapp.
 
 If it mostly works, but has some quirks (or broken features) please create a README.md in the folder and note them down.
 
+## Translating
+I have made a simple translator in the translator folder. To run it, run the translate_local.py script to create a translations.json file, then run the apply_translations.py script.
+
+You will need to install the argostranslate package from pip.
+
 ## Disclaimer
 All these softwares are owned by their respective brands/vendors. This repository is just an archive of publicly available copies of their code/software
