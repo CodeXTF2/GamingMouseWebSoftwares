@@ -15,7 +15,7 @@ wget2 --mirror --convert-links --adjust-extension --page-requisites --no-parent 
 ```
 
 I will be updating this with any web software I own the peripheral for (and can test to be working). Feel free to submit PRs with additional brands softwares.   
-**PLEASE TEST THAT THE COPY WORKS LOCALLY, WITH THE HARDWARE, BEFORE PUSHING**
+**PLEASE TEST THAT THE COPY WORKS LOCALLY, WITH THE HARDWARE, BEFORE SUBMITTING A PR**
 
 to test, simply enter the folder and run:
 ```
