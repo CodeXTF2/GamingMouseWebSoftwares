@@ -179,7 +179,7 @@ var byteToBitArr = function (bite) {
   return a;
 };
 /**
- * 读取数据
+ * Reading Data
  *
  * @class Stream
  */
@@ -217,7 +217,7 @@ var Stream = /** @class */ (function () {
   return Stream;
 })();
 /**
- * 转换请求回来的Gif数据
+ * Conversion request returnedGifdata
  *
  * @class ParseGif
  */
@@ -703,7 +703,7 @@ var GifToCanvas = /** @class */ (function () {
     this.listener[event] = fn;
   };
   /**
-   * 设置canvas尺寸
+   * set upcanvas尺寸
    *
    * @memberof GifToCanvas
    */
