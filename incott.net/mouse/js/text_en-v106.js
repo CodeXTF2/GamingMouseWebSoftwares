@@ -121,6 +121,8 @@ function init_language_en()
         "msg57" : "The maximum number of keys has been reached.",
         "msg58" : "Are you sure you want to update the configuration to ",
         "msg59" : "XY is adjusted separately",
+        "msg60" : "X-Axis",
+        "msg61" : "Y-Axis",
         "msg62" : "Invert the left and right button",
         "msg63" : "Receiver LED",
         "msg64" : "Connect and polling rate",
